@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Read Write File</string>
+    <string name="contents_of_the_file">Contents of the File</string>
+    <string name="enter_the_text_here">Enter the text here</string>
+</resources>
